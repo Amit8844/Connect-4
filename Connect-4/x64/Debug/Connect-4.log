@@ -1,0 +1,3 @@
+﻿  connect-4.cpp
+D:\Unity Projects\Data Structure\Connect4\Connect-4\Connect-4\connect-4.cpp(154): warning C4715: 'StartGame': not all control paths return a value
+  Connect-4.vcxproj -> D:\Unity Projects\Data Structure\Connect4\Connect-4\x64\Debug\Connect-4.exe
