@@ -39,8 +39,8 @@ void PrintLogo()
 void WelcomeScreen() {
     cout << BLUE;
 
-    cout << YELLOW << "\n\nHow To Play:-\n "
-        << BLUE << "1. Game will always start with player-1 i.e. Red(R)\n2. In each turn choose the column number in which you want to drop the ball.\n3. rows will be filled from bottom to top in every column.\n\n\n";
+    cout << YELLOW << "\n\nHow To Play:-\n\n "
+    << BLUE<<"1. Game will always start with player-1 i.e. Red(R)\n2. In Each turn choose the column number in Which you want to drop the Token.\n3. Rows will be filled from bottom to top in every column.\n\n\n";
     cout << GREEN;
 
     cout << WHITE << "\n\n";
